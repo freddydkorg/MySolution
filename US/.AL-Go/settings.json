@@ -7,9 +7,10 @@
   "repoVersion": "1.1",
   "appDependencyProbingPaths": [
     {
-      "repo": "freddydkorg/MySolution",
+      "repo": ".",
       "release_status": "include",
       "projects": "W1"
     }
   ]
 }
+

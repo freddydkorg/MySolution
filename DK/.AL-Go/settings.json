@@ -6,9 +6,9 @@
   "repoVersion": "1.1",
   "appDependencyProbingPaths": [
     {
+      "repo": ".",
       "release_status": "include",
       "projects": "W1"
     }
   ]
 }
-

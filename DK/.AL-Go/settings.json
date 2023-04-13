@@ -3,5 +3,12 @@
   "appFolders": [],
   "testFolders": [],
   "artifact": "https://bcartifacts.azureedge.net/sandbox/22.0.54157.55210/dk",
-  "repoVersion": "1.1"
+  "repoVersion": "1.1",
+  "appDependencyProbingPaths": [
+    {
+      "repo": "freddydkorg/MySolution",
+      "release_status": "include",
+      "projects": "W1"
+    }
+  ]
 }

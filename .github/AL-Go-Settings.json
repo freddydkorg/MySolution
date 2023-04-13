@@ -1,11 +1,4 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
-  "appDependencyProbingPaths": [
-    {
-      "repo": "freddydkorg/MySolution",
-      "release_status": "include",
-      "projects": "W1"
-    }
-  ]
+  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview"
 }

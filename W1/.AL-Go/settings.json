@@ -3,11 +3,5 @@
   "appFolders": [],
   "testFolders": [],
   "artifact": "https://bcartifacts.azureedge.net/sandbox/22.0.54157.55210/w1",
-  "repoVersion": "1.1",
-  "appDependencyProbingPaths": [
-    {
-      "repo": "freddydkorg/Common",
-      "release_status": "latestBuild"
-    }
-  ]
+  "repoVersion": "1.1"
 }

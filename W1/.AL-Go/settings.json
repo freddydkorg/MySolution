@@ -7,7 +7,7 @@
   "appDependencyProbingPaths": [
     {
       "repo": "freddydkorg/Common",
-      "release_status": "latest"
+      "release_status": "latestBuild"
     }
   ]
 }

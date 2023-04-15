@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "6f37028c-0098-4473-9565-62ab27cf79c3",
+      "name": "Licensing",
+      "publisher": "Freddy",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "19.0.0.0",

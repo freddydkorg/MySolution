@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "b72b50cd-e18d-43fe-81d6-4a4d0dbd0a74",
+      "name": "mysolution.w1",
+      "publisher": "Freddy",
+      "version": "1.0.0.0"    
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",

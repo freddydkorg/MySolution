@@ -1,5 +1,6 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@ALDoc",
-  "useProjectDependencies": true
+  "useProjectDependencies": true,
+  "templateSha": "14149350209fdf3abab0e20a8221b2aa4cff78b3"
 }
